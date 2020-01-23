@@ -1,0 +1,19 @@
+[
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [],
+    "nombre": "diego",
+    "apellido": "chisaguano",
+    "cedula": "0504435223"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de Futbol",
+      "Club de Basket"
+    ],
+    "nombre": "juan",
+    "apellido": "perez",
+    "cedula": "012365432"
+  }
+]

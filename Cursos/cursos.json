@@ -1,0 +1,27 @@
+[{
+		"titulo": "Fundamentos de Programacion",
+		"descripcion": "Algoritmos",
+		"costo": 100.0
+	},
+	{
+		"titulo": "Programacion Orientada a Objetos",
+		"descripcion": "Clases y Objetos",
+		"costo": 200.0
+	},
+	{
+		"titulo": "Fisica Fundamental",
+		"descripcion": "Calorimetria",
+		"costo": 400.0
+	},
+	{
+		"titulo": "Algebra Lineal",
+		"descripcion": "Limites",
+		"costo": 120.0
+	},
+	{
+		"titulo": "Cultura Ambiental",
+		"descripcion": "Contaminacion",
+		"costo": 250.0
+
+	}
+]

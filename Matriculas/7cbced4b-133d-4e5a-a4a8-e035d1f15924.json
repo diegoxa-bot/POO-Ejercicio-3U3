@@ -1,0 +1,26 @@
+{
+  "numero": "7cbced4b-133d-4e5a-a4a8-e035d1f15924",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 10,
+    "minute": 57,
+    "second": 7
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingenieria de Software",
+    "clubes": [],
+    "nombre": "diego",
+    "apellido": "chisaguano",
+    "cedula": "0504435223"
+  },
+  "curso": {
+    "titulo": "Fundamentos de Programacion",
+    "costo": 100.0,
+    "descripcion": "Algoritmos"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}

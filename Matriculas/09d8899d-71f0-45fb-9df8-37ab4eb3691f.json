@@ -1,0 +1,29 @@
+{
+  "numero": "09d8899d-71f0-45fb-9df8-37ab4eb3691f",
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 20,
+    "hourOfDay": 10,
+    "minute": 5,
+    "second": 50
+  },
+  "estado": "Registrada",
+  "estudiante": {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club de Futbol",
+      "Club de Basket"
+    ],
+    "nombre": "juan",
+    "apellido": "perez",
+    "cedula": "012365432"
+  },
+  "curso": {
+    "titulo": "Cultura Ambiental",
+    "costo": 250.0,
+    "descripcion": "Contaminacion"
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}
